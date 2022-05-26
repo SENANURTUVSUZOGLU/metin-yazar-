@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\odev23\obj\Debug\odev23.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\odev23\obj\Debug\odev23.Properties.Resources.resources
+C:\Users\user\source\repos\odev23\obj\Debug\odev23.csproj.GenerateResource.cache
+C:\Users\user\source\repos\odev23\obj\Debug\odev23.csproj.CoreCompileInputs.cache
